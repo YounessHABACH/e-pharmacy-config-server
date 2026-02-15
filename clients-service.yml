@@ -1,3 +1,7 @@
 spring:
   application:
     name: clients-service
+
+conf:
+  param1: Param1
+  param2: Param2
